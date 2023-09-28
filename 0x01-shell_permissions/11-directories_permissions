@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+x | grep ^d
+chmod u+x -d */
