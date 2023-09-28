@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R --from=root:vincent root:staff .
+chown -R --from=root:root vincent:staff .
