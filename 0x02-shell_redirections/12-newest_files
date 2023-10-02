@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ogtla | head
+ls -1ta | head
