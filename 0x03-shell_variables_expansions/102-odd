@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ((head -n 1)) | ls -1
+tail -n +<N+1> | ls -1
