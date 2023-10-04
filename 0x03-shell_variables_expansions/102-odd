@@ -1,2 +1,2 @@
 #!/bin/bash
-head -n 1 | ls -1
+echo ((head 1)) | ls -1
