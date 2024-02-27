@@ -20,3 +20,4 @@ create 5-beginning_and_end.rb
 up 5
 update 5
 create6-phone_number.rb6-phone_number.rb
+up 6
