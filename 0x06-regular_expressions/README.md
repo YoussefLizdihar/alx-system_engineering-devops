@@ -12,3 +12,4 @@ up 1
 create 2-repetition_token_1.rb
 up 2
 u 2
+update 2
