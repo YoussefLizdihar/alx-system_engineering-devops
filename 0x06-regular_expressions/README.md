@@ -9,3 +9,4 @@ up 2
 up 1
 u 1
 up 1
+create 2-repetition_token_1.rb
