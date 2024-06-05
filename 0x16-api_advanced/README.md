@@ -7,3 +7,4 @@ up 100
 up 100 again
 update 100
 create 0
+up 0
