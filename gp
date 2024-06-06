@@ -5,3 +5,4 @@ read gitPush
 git add .
 git commit -m "{$gitPush}"
 git push
+echo "$gitPush" >> README.md
